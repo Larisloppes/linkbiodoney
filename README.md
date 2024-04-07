@@ -1,6 +1,7 @@
 # Perfil LinkBio - Neymar Jr
 
-Este repositório contém o projeto LinkBio criado como um perfil para Neymar Jr, uma das estrelas do futebol mundial. O projeto foi desenvolvido como parte da série de tutoriais do DevMidia, demonstrando técnicas avançadas de HTML e CSS para criar perfis interativos e visualmente atraentes.
+Este repositório contém o projeto [LinkBio](https://larisloppes.github.io/linkbiodoney) criado como um perfil para Neymar Jr, uma das estrelas do futebol mundial. O projeto foi desenvolvido como parte da série de tutoriais do DevMidia, demonstrando técnicas avançadas de HTML e CSS para criar perfis interativos e visualmente atraentes.
+No projeto original na primeira pagina tem um video mas não consegui subir aqui por conta do tamanho. 
 
 ## Características
 
